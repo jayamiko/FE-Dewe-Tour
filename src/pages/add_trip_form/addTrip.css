@@ -1,0 +1,12 @@
+.add-trip-container {
+    padding-top: 150px;
+    padding-bottom: 150px;
+  }
+  .addTripTitle{
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  .add-trip {
+    background-color: #f1f1f1;
+    position: relative;
+  }

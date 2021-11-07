@@ -1,0 +1,35 @@
+.payment-content-container {
+    background-color: #ffff;
+    position: relative;
+  }
+  
+  .payment-content-container small {
+    color: #a8a8a8;
+  }
+  
+  .info-payment {
+    background: linear-gradient(180deg, #ff9900 0%, #ff9900 10%);
+  
+    border-radius: 2px;
+  }
+  
+  .info-payment p {
+    color: #ff9900;
+  }
+  
+  .inf {
+    width: 100%;
+  }
+  
+  .payment-image {
+    position: absolute;
+    left: 870px;
+    top: 126px;
+    box-sizing: border-box;
+  }
+  
+  .payment-image img {
+    width: 200px;
+    height: 180.31px;
+    right: 3000px !important;
+  }
